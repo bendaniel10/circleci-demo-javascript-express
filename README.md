@@ -174,7 +174,7 @@ In this version, we enabled the `mern-cli` to clone not only this project but al
 3. In this version, we also added code generators. Blueprints for those generators are located at `config/blueprints`, and config is located at `mern.json`. Make sure to edit them if necessary after your made modifications in the previous step. There is a section below which explains how to modify generators.
 
 4. Next clone `mern-cli` project
-    ```
+    ```shell
     git clone https://github.com/Hashnode/mern-cli
     ```
 
